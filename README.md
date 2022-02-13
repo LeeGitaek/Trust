@@ -1,6 +1,10 @@
 # Trust
 
 ### Swift - DCI Pattern Test Library
+  
+  <a href="https://github.com/LeeGitaek">
+    <img src="https://img.shields.io/badge/iOS개발자-이기택-orange?style=flat" />
+  </a>
 
 - How to use ?
 ```swift
