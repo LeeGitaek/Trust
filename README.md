@@ -16,7 +16,7 @@ extension User: Trust { }
 
 ```swift
 
-func sum(a: Int, b: Int) -> Int {
+    func sum(a: Int, b: Int) -> Int {
         return a + b
     }
     
