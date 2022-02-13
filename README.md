@@ -38,7 +38,7 @@ extension User: Trust { }
     }
 
 ```
-
+#### OUTPUT LOG 
 ```swift
 
 @Describe: user object 
