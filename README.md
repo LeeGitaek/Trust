@@ -38,3 +38,12 @@ extension User: Trust { }
     }
 
 ```
+
+```swift
+
+@Describe: user object 
+	 @Context: with 300 and 200
+		 @It: returns 500 
+     
+
+```
